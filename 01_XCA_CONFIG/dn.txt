@@ -1,0 +1,36 @@
+# DISTINGUISHED NAME
+
+# Directory Services (LDAP)
+CN
+SN
+serialNumber
+C
+L
+ST
+street
+O
+OU
+title
+description
+businessCategory
+postalCode
+name
+GN
+initials
+generationQualifier
+x500UniqueIdentifier
+dnQualifier
+pseudonym
+role
+organizationIdentifier
+
+# Microsoft Extended Validation
+jurisdictionLocalityName
+jurisdictionStateOrProvinceName
+jurisdictionCountryName
+
+# TELEKOM
+nameDistinguisher
+
+# RFC 2985 (PKCS9)
+#emailAddress  (OID is deprecated, use an altName extension instead)
